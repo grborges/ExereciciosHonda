@@ -4,7 +4,7 @@
 
 int main()
 {
-    double pontos_no_circulo = 0, x = 0, y = 0, pi;
+    double pontos_no_circulo = 0, x = 0, y = 0, pi = 0;
     double num_pontos = 0;
 
     srand(time(NULL));
